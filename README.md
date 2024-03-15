@@ -1,8 +1,7 @@
 # Hello, I'm Hassan
 
- I'm a passionate Computer Science undergraduate student with a keen interest in software development, artificial intelligence, and computer systems. My academic journey has equipped me with a solid foundation in various programming languages, algorithms, data structures, and software engineering principles.
+ I'm a passionate Computer Science undergraduate student with a keen interest in software development and artificial intelligence. My academic journey has equipped me with a solid foundation in various programming languages, algorithms, data structures, and software engineering principles.
 
-<br />
 <br />
 
 ## Coding Profiles
